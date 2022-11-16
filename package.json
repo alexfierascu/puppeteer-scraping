@@ -1,0 +1,15 @@
+{
+  "name": "puppeteer-scrapping",
+  "version": "1.0.0",
+  "description": "puppeteer demo project for scrapping web data",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alex Fierascu",
+  "license": "ISC",
+  "devDependencies": {
+    "puppeteer": "^19.2.2"
+  }
+}
